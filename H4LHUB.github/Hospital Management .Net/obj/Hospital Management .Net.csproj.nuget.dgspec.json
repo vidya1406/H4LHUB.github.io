@@ -1,0 +1,300 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\Hospital Management .Net\\Hospital Management .Net.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\CommonLayer\\CommonLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\CommonLayer\\CommonLayer.csproj",
+        "projectName": "CommonLayer",
+        "projectPath": "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\CommonLayer\\CommonLayer.csproj",
+        "packagesPath": "C:\\Users\\VishalWaman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\CommonLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VishalWaman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\Hospital Management .Net\\Hospital Management .Net.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\Hospital Management .Net\\Hospital Management .Net.csproj",
+        "projectName": "Hospital Management .Net",
+        "projectPath": "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\Hospital Management .Net\\Hospital Management .Net.csproj",
+        "packagesPath": "C:\\Users\\VishalWaman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\Hospital Management .Net\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VishalWaman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\CommonLayer\\CommonLayer.csproj": {
+                "projectPath": "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\CommonLayer\\CommonLayer.csproj"
+              },
+              "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\RepositoryLayer\\RepositoryLayer.csproj": {
+                "projectPath": "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\RepositoryLayer\\RepositoryLayer.csproj"
+              },
+              "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\ServiceLayer\\ServiceLayer.csproj": {
+                "projectPath": "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\ServiceLayer\\ServiceLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\RepositoryLayer\\RepositoryLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectName": "RepositoryLayer",
+        "projectPath": "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\RepositoryLayer\\RepositoryLayer.csproj",
+        "packagesPath": "C:\\Users\\VishalWaman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\RepositoryLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VishalWaman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\CommonLayer\\CommonLayer.csproj": {
+                "projectPath": "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\CommonLayer\\CommonLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\ServiceLayer\\ServiceLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\ServiceLayer\\ServiceLayer.csproj",
+        "projectName": "ServiceLayer",
+        "projectPath": "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\ServiceLayer\\ServiceLayer.csproj",
+        "packagesPath": "C:\\Users\\VishalWaman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\ServiceLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VishalWaman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\CommonLayer\\CommonLayer.csproj": {
+                "projectPath": "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\CommonLayer\\CommonLayer.csproj"
+              },
+              "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\RepositoryLayer\\RepositoryLayer.csproj": {
+                "projectPath": "C:\\Users\\VishalWaman\\source\\repos\\P\\Hospital Management\\Hospital Management .Net\\RepositoryLayer\\RepositoryLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
