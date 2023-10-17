@@ -1,0 +1,61 @@
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\appsettings.json
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\Hospital Management .Net.exe
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\Hospital Management .Net.deps.json
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\Hospital Management .Net.runtimeconfig.json
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\Hospital Management .Net.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\Hospital Management .Net.pdb
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\DnsClient.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\Snappier.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\CommonLayer.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\CommonLayer.pdb
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\Hospital Management .Net.csproj.AssemblyReference.cache
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\Hospital Management .Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\Hospital Management .Net.AssemblyInfoInputs.cache
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\Hospital Management .Net.AssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\Hospital Management .Net.csproj.CoreCompileInputs.cache
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\Hospital Management .Net.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\Hospital Management .Net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\staticwebassets\msbuild.Hospital Management .Net.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\staticwebassets\msbuild.build.Hospital Management .Net.props
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Hospital Management .Net.props
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Hospital Management .Net.props
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\scopedcss\bundle\Hospital Management .Net.styles.css
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\Hospital Management .Net.csproj.CopyComplete
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\Hospital Management .Net.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\refint\Hospital Management .Net.dll
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\Hospital Management .Net.pdb
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\Hospital Management .Net.genruntimeconfig.cache
+C:\Users\VishalWaman\source\repos\P\Hospital Management\Hospital Management .Net\Hospital Management .Net\obj\Debug\net6.0\ref\Hospital Management .Net.dll
